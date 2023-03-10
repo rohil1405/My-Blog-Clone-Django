@@ -8,7 +8,7 @@ Django based Clone
       
 - Create SuperUser
 
-    python manage.py createsuperuser
+       python manage.py createsuperuser
 
 - After all these steps , you can start testing and developing this project.
 
